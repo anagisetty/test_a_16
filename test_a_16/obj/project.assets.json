@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Amar\\Debug\\Apps\\1\\63\\202304190639\\test_a_16\\test_a_16.csproj",
+      "projectUniqueName": "C:\\Amar\\Debug\\Apps\\1\\64\\202304190701\\test_a_16\\test_a_16.csproj",
       "projectName": "test_a_16",
-      "projectPath": "C:\\Amar\\Debug\\Apps\\1\\63\\202304190639\\test_a_16\\test_a_16.csproj",
+      "projectPath": "C:\\Amar\\Debug\\Apps\\1\\64\\202304190701\\test_a_16\\test_a_16.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Amar\\Debug\\Apps\\1\\63\\202304190639\\test_a_16\\obj\\",
+      "outputPath": "C:\\Amar\\Debug\\Apps\\1\\64\\202304190701\\test_a_16\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
